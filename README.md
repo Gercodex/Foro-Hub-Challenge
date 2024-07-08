@@ -1,4 +1,4 @@
-# FORO HUB CHALLENGE ONE ALURA LATAM
+# Foro Hub Challenge One Alura Latam
 
 ## Descripción Del Proyecto
 
