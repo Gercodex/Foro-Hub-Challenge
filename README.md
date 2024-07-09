@@ -18,7 +18,7 @@ Challenge de una aplicación de foro para desarrollar del programa ONE y Alura L
 * MySql-connector
 * JWT
 * Spring (web,security,validation,JPA)
-* Versión Java (Initializr) 17
+* Versión Java SpringBoot (Initializr) 17
 * Versión Java Intellij 21
 
 ## Funcionamiento
